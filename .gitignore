@@ -1,0 +1,6 @@
+*.task
+*.tfstate
+*.lock.hcl
+*.pem
+*.pub
+*.terraform
